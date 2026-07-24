@@ -1,0 +1,8 @@
+C:\Users\X50064~1\AppData\Local\Temp\b.mjs:177
+  return `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}`;
+  ^^^^^^
+
+SyntaxError: Illegal return statement
+    at checkSyntax (node:internal/main/check_syntax:72:5)
+
+Node.js v24.18.0
